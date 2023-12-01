@@ -10,8 +10,7 @@ During that time, I wrote code for the simulation of quantum dynamics; mostly in
 
 - Theoretical and Computational Physics (Quantum Physics, Condensed Matter, Statistical Physics, Magnetism)
 - Data Science and Machine Learning
-- Python
-- Scientific Python
+- (Scientific) Python (including scientific libraries: NumPy, SciPy, Matplotlib, Numba, ...)
 - LaTeX
 - Mathematica
 - C++
